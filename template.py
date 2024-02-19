@@ -22,6 +22,7 @@ list_of_files=[
     "init_setup.py",
     ".gitignore",
     "requirements.txt",
+    "Readme.md",
 
 ]
 
